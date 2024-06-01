@@ -1,0 +1,4 @@
+BT:
+
+Tìm sai số của mô hình trên
+Bài toán dự đoán giá 1 căn nhà rộng x1 m^2, có x2 phòng ngủ và cách trung tâm thành phố x3 km có giá là bao nhiêu
